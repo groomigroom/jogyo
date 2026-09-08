@@ -37,4 +37,6 @@ https://www.kopo.ac.kr/jungsu/content.do?menu=12484
 설치 빡센거 설치법!!!!!!!!!!!!!!!!
 예시 아나콘다, mysql, c언어
 
+q&a 느낌 판
+
 
