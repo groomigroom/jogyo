@@ -6,3 +6,4 @@
 | 데이터 분석/시각화 | matplotlib.pyplot | plt | 그래프 | https://wikidocs.net/92071 |
 | 데이터 분석/시각화 | openpyxl | xx | 엑셀 파일 읽기, 수정 | https://wikidocs.net/91661 |
 | 데이터 분석/시각화 | csv | xx | CSV 파일 읽기, 쓰기, 데이터 처리 | https://wikidocs.net/295440 |
+| 데이터 분석/시각화 | re | xx | 문자열 검색. 치환, 패턴 추출 | https://wikidocs.net/264207 |
