@@ -10,3 +10,4 @@
 | 머신러닝/딥러닝 | keras | xx | 딥러닝 신경망 모델 구성/학습 | https://wikidocs.net/192472 |
 | 머신러닝/딥러닝 | tensorflow | tf | 딥러닝 모델 구칙 및 학습, 텐서 연산, 배포 | https://www.tensorflow.org/tutorials/quickstart/beginner?hl=ko |
 | 머신러닝/딥러닝 | torch | tf | 딥러닝 모델 구칙 및 학습, 텐서 연산, 신경망 연구 및 개발 | https://tutorials.pytorch.kr/beginner/pytorch_with_examples.html |
+| 머신러닝/딥러닝 | sklearn | tf | 머신러닝 모델 학습, 데이터 전처리, 분류 / 회귀 / 군집화 / 모델 평가 | https://wikidocs.net/369425 |
