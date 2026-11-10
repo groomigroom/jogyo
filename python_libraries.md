@@ -9,3 +9,4 @@
 | 데이터 분석/시각화 | re | xx | 문자열 검색. 치환, 패턴 추출 | https://wikidocs.net/264207 |
 | 머신러닝/딥러닝 | keras | xx | 딥러닝 신경망 모델 구성/학습 | https://wikidocs.net/192472 |
 | 머신러닝/딥러닝 | tensorflow | tf | 딥러닝 모델 구칙 및 학습, 텐서 연산, 배포 | https://www.tensorflow.org/tutorials/quickstart/beginner?hl=ko |
+| 머신러닝/딥러닝 | torch | tf | 딥러닝 모델 구칙 및 학습, 텐서 연산, 신경망 연구 및 개발 | https://tutorials.pytorch.kr/beginner/pytorch_with_examples.html |
