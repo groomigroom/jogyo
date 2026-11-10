@@ -4,3 +4,4 @@
 | 데이터 분석/시각화 | numpy | np | 배열, 행렬, 통계, 수치 연산 | https://wikidocs.net/259023 |
 | 데이터 분석/시각화 | seaborn | sns | 통계 데이터 시각화 | https://tutorials.pytorch.kr/ |
 | 데이터 분석/시각화 | matplotlib.pyplot | plt | 그래프 | https://wikidocs.net/92071 |
+| 데이터 분석/시각화 | openpyxl | xx | 엑셀 파일 읽기, 수정 | https://wikidocs.net/91661 |
