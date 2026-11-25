@@ -28,6 +28,12 @@ https://youtu.be/aNNuh8Li0iA?si=s-lJNvKK0Fwxp7MG
 https://youtu.be/Nb1Z9fqizT8?si=ia9tsKnOwMy1foj9
 
 
+
+
+성능튜닝의 양대산맥, Cache와 MQ
+https://youtu.be/dVCB5jQAYMA?si=Qn2JXMxZuFfAD-2w
+
+
 ==== uiux ====
 
 
